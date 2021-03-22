@@ -1,3 +1,3 @@
-Big-O Complexity Chart:
+## Big-O Complexity Chart:
 
-https://www.bigocheatsheet.com/
+* https://www.bigocheatsheet.com/
